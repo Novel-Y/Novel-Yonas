@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.45041, 6.4925]
+        },
+        "properties": {
+          "name": "Bo 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.45413, 6.49768]
+        },
+        "properties": {
+          "name": "Bo 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.46519, 6.48998]
+        },
+        "properties": {
+          "name": "Bo 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [16.46232, 6.48418]
+        },
+        "properties": {
+          "name": "Location 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.4423, 6.0053]
+        },
+        "properties": {
+          "name": "K 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.44, 6.0091]
+        },
+        "properties": {
+          "name": "K 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.4613, 6.0137]
+        },
+        "properties": {
+          "name": "K 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.4623, 6.0097]
+        },
+        "properties": {
+          "name": "K 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.629, 5.8024]
+        },
+        "properties": {
+          "name": "Z 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.6287, 5.8081]
+        },
+        "properties": {
+          "name": "Z 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.6621, 5.8041]
+        },
+        "properties": {
+          "name": "Z 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.6619, 5.7997]
+        },
+        "properties": {
+          "name": "Z 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.0767, 6.6968]
+        },
+        "properties": {
+          "name": "Bu 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.0847, 6.6972]
+        },
+        "properties": {
+          "name": "Bu 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.0864, 6.6864]
+        },
+        "properties": {
+          "name": "Bu 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.0788, 6.6865]
+        },
+        "properties": {
+          "name": "Bu 4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.1019, 6.6966]
+        },
+        "properties": {
+          "name": "Bk 1"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.1086, 6.697]
+        },
+        "properties": {
+          "name": "Bk 2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.1079, 6.6834]
+        },
+        "properties": {
+          "name": "Bk 3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.1017, 6.6836]
+        },
+        "properties": {
+          "name": "Bk 4"
+        }
+      }
+    ]
+  }
+  
